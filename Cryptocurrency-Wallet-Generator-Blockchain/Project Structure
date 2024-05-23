@@ -1,0 +1,7 @@
+crypto_wallet_generator/
+├── blockchain.py
+├── wallet.py
+├── transaction.py
+├── utils.py
+├── main.py
+└── README.md
